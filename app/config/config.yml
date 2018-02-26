@@ -86,3 +86,4 @@ fos_rest:
 # Sensio disable annotation
 sensio_framework_extra:
     view: { annotations: true }
+    request: { converters: true }
